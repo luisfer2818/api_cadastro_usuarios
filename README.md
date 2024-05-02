@@ -2,8 +2,6 @@
 
 ## Como utilizar
 
---
-
 - Docker
 ---  sudo docker compose up
 - PostgreSql

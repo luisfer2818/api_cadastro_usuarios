@@ -7,3 +7,9 @@
 - PostgreSql (Banco de dados)
 - Postman (Para testar os endpoints)
 - sdkman (para gerenciamento de versões do Java)
+
+## Pontos importantes
+
+- Api crud de usuários(cadastrar, editar, excluir e listar)
+- Tratamentos de erros
+- Validação de mensagens

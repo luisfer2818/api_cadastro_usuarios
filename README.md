@@ -8,7 +8,7 @@
 - Postman (Para testar os endpoints)
 - sdkman (para gerenciamento de versões do Java)
 
-## Pontos importantes
+## Características
 
 - Api crud de usuários(cadastrar, editar, excluir e listar)
 - Tratamentos de erros
